@@ -1,0 +1,2 @@
+# SimpleRabbitMQ
+Simple RabbitMQ Library.
